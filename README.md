@@ -35,9 +35,3 @@ Hackintosh resources for Asus X441UV
  - Shutdown / Reboot
  - Sleep
  - WebCam
- 
-
-**Contact Us**
-
-Facebook : fb.me/alfinauzikri <br />
-Telegram : https://t.me/HackintoshIndonesia
