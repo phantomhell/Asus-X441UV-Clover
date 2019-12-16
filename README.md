@@ -8,8 +8,8 @@ Hackintosh resources for Asus X441UV
 
  - Processor : Intel Core i3 6006U 2.0 Ghz (Skylake)
  - IGPU : Intel HD Graphics 520
- - EGPU : Nvidia 920MX
- - RAM : 4GB DDR4 2133MHz (Disabled)
+ - EGPU : Nvidia 920MX (Disabled)
+ - RAM : 4GB DDR4 2133MHz 
  - Built-in Audio : ALC255 Revision 2
  - Wifi : Qualcomm Atheros AR9565
  - Ethernet : Realtek RTL8106E
