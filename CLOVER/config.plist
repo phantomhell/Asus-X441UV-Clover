@@ -202,7 +202,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>-v keepsyms=1</string>
+		<string>keepsyms=1</string>
 		<key>Debug</key>
 		<false/>
 		<key>DefaultLoader</key>
@@ -492,7 +492,7 @@
 	<key>SystemParameters</key>
 	<dict>
 		<key>InjectKexts</key>
-		<string>Detect</string>
+		<string>Yes</string>
 		<key>InjectSystemID</key>
 		<true/>
 	</dict>
