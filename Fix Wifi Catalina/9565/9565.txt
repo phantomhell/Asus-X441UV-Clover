@@ -1,0 +1,15 @@
+1 open terminal and write
+2 defaults write com.apple.finder AppleShowAllFiles YES
+3 killall Finder
+4 go to System/Library/Extensions and delete IO80211Family.kext and IO80211FamilyV2.kext
+5 open kext utility and install corecapture.kext and CoreCaptureResponder.kext
+6 open clover configurator and mount your efi partition
+7 go to EFI/CLOVER/kexts/10.12 and move IO80211Family.kext
+8 reboot enjoy
+
+
+
+
+My youtube channel https://www.youtube.com/channel/UCzxRc20c5_bC2zaBFQ4GFsQ
+
+Like and fap thanks for watching.
