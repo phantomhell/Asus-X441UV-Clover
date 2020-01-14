@@ -37,7 +37,6 @@ Hackintosh resources for Asus X441UV
  - WebCam
  
 
-**Contact Us**
-
-Facebook : fb.me/alfinauzikri <br />
-Telegram : https://t.me/HackintoshIndonesia
+Thanks to:
+alfinauzikri<br />
+HackintoshIndonesia Telegram Group<br />
