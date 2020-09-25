@@ -17,7 +17,7 @@ Hackintosh resources for Asus X441UV
  - Bootloader: Clover (UEFI)
  - BIOS Version : X441UV.312
  
- **Latest macOS :**
+ **Latest Supported macOS :**
   - macOS Catalina 10.15.7
 
 **Working :**
