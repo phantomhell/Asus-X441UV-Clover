@@ -10,59 +10,59 @@
 		</data>
 		<key>Resources/ACPI/SSDT-STAS.dsl</key>
 		<data>
-		UVjz53DVSscjopnIKRWN4sDic2I=
+		kIwth6mfkYW9CgcO972S8Vest4U=
 		</data>
 		<key>Resources/ACPI/SSDT-UIAC-ALL.dsl</key>
 		<data>
-		yipFN7aGZv9tF1do0EBZ1jQNQuQ=
+		aLGDZNIJ30wJ8Is60Zcqxep/aNo=
 		</data>
 		<key>Resources/ACPI/SSDT-USBX.dsl</key>
 		<data>
-		R4D73SZTj61BpGKK9eY3LOb7GVM=
+		l5gQUDmm5J/jx0JGsJLskmP6sG4=
+		</data>
+		<key>Resources/ACPI/SSDT-XOSI.dsl</key>
+		<data>
+		enQ7DK7AwCJ8OC3mxPbfU0sAWLg=
 		</data>
 		<key>Resources/AppIcon.icns</key>
 		<data>
-		hfAi0+MRWUePqGDYY8e8IqZvC3Q=
+		WYdffDO/eBAcq9DB9Ykqa/ZeXQo=
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		sdnHe8GG79GB6yJl9Iu4EvH7vy8=
+		xEfwUIDLj1mvjlZD9xRZq7OqgL0=
 		</data>
 		<key>Resources/Audio/Codecs.plist</key>
 		<data>
-		Vd2H2ZCTWhDW1GYCmAgutNO+xMc=
+		Xu5GTeIvpbcdPmn7O+VFSY0Htzg=
 		</data>
 		<key>Resources/Audio/Controllers.plist</key>
 		<data>
-		QcXHgOKnvRwq/azJYdJZS1hcB28=
+		HLjSfDFrsA8Tf3/3NISvbXbh8ds=
 		</data>
 		<key>Resources/Audio/Kexts.plist</key>
 		<data>
-		tjXivnPC/TYB4k0MAG2yKnGKDxk=
+		n34TPbHLUMswMpqnweRgGWNtywI=
 		</data>
 		<key>Resources/Audio/Vendors.plist</key>
 		<data>
 		D3uheXMWYhG9GT3b1K5BJlvege0=
 		</data>
-		<key>Resources/BT/AtherosDevice.plist</key>
-		<data>
-		DPf46pOnBdaVAhfYcyIU6abA1KM=
-		</data>
-		<key>Resources/BT/BRCMDevice.plist</key>
-		<data>
-		j49ISJMgH3i0tShYFfQ3+HJOS7M=
-		</data>
-		<key>Resources/BannerEveryMac.png</key>
-		<data>
-		78v//ADHjMPz/Gb42pMXURv/tVs=
-		</data>
 		<key>Resources/Base.lproj/Credits.rtf</key>
 		<data>
-		4Ok9K0rkSdhAJfJ7bKymUiF//0Y=
+		Ambc8MrOML+8whIezp6X6Q+104g=
 		</data>
-		<key>Resources/Base.lproj/MainMenu.nib</key>
+		<key>Resources/Base.lproj/MainMenu.nib/keyedobjects-101300.nib</key>
 		<data>
-		trnwBJgRoroNJcRqcYlQYk3qLHg=
+		1HkzkDG6+pLl36tS0PkvlrPugtw=
+		</data>
+		<key>Resources/Base.lproj/MainMenu.nib/keyedobjects-110000.nib</key>
+		<data>
+		lNEvWaHN33FmIqP20Zlq0CwETbg=
+		</data>
+		<key>Resources/Base.lproj/MainMenu.nib/keyedobjects.nib</key>
+		<data>
+		jeSjEYXIPzGA7AZqgTjXC4MCxXc=
 		</data>
 		<key>Resources/Clover/config_patches.plist</key>
 		<data>
@@ -134,11 +134,15 @@
 		</data>
 		<key>Resources/Framebuffer/macOS 10.14/Coffee Lake.bin</key>
 		<data>
-		KC0cz4KYu4l9GA7NMqOQyHx2FYQ=
+		G0oYNl8aBf6m0ZMk933LVdYvxY0=
 		</data>
 		<key>Resources/Framebuffer/macOS 10.14/Haswell.bin</key>
 		<data>
 		UkoJkPtaD9iLk7Iz26qpuJnuCbU=
+		</data>
+		<key>Resources/Framebuffer/macOS 10.14/Ice Lake (LP).bin</key>
+		<data>
+		YuoZDPdshqKgtnH1tZfuj1jBIj8=
 		</data>
 		<key>Resources/Framebuffer/macOS 10.14/Ivy Bridge.bin</key>
 		<data>
@@ -150,15 +154,11 @@
 		</data>
 		<key>Resources/Framebuffer/macOS 10.14/PlatformIDs.plist</key>
 		<data>
-		c1XNcuaAeCGECOsPzukAiG5PGdM=
+		EDLKKdOxFSxnCkeQlWAGjsPOVfc=
 		</data>
 		<key>Resources/Framebuffer/macOS 10.14/Skylake.bin</key>
 		<data>
 		nMC3aDyeYL9buQy017RxcVNckfg=
-		</data>
-		<key>Resources/HeadsoftLogo.png</key>
-		<data>
-		T6Ri0DxYsw1YJIEu3ipy7wZFxqE=
 		</data>
 		<key>Resources/Help/Contents/Info.plist</key>
 		<data>
@@ -234,7 +234,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wjpqVXvmS/Hgy4sswdfc+4i0ZwQ=
+			8FRRQ4LO9DozueBY1+TBDmy+CU8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -243,7 +243,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nzHQFn53C02vkkSFD6C3lktIBcs=
+			EosgSTmQqL3mIUaL+3kE9a276gw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -270,7 +270,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1krPX7u55Huw4Kn5pg1ztW968hE=
+			RKccbC037450hTN8RiNGXuNZyYc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -279,7 +279,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			d+XMCIhAq8LYD+c46yfmsBRj3GU=
+			C27oIUihNR7q8SD39e2FPEulqeM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -392,229 +392,13 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/IconAdd.png</key>
-		<data>
-		sl2OIM3ynVtmM3q57+O5xilvpWk=
-		</data>
-		<key>Resources/IconApp.png</key>
-		<data>
-		a1J5xO4AY5kcnTHEKn4IM4LU94I=
-		</data>
-		<key>Resources/IconAtheros.png</key>
-		<data>
-		CvHUEGXMaV+3bHchBbLmuEvBTAU=
-		</data>
-		<key>Resources/IconAudio.png</key>
-		<data>
-		U61mR4VrZOV0Ke8B6SCyEG47INc=
-		</data>
-		<key>Resources/IconBluetooth.png</key>
-		<data>
-		mXTFKTgD5TYw5SxUb/82K1fxLPE=
-		</data>
-		<key>Resources/IconBoot.png</key>
-		<data>
-		TjBL12eUSO0UVFFmwRdmY9trMkM=
-		</data>
-		<key>Resources/IconBuyMeABeer.png</key>
-		<data>
-		5TED0jHawNw+simELwxT6Fdlxk4=
-		</data>
-		<key>Resources/IconCalculator.png</key>
-		<data>
-		2z5uJJ/GS3dq/vSb3TigqWD4cGA=
-		</data>
-		<key>Resources/IconClearAll.png</key>
-		<data>
-		aJGhuXF8lBsLgXmB/h+1HDfpB1k=
-		</data>
-		<key>Resources/IconClock.png</key>
-		<data>
-		syqFf4bFzxfuzmqXXIJCBjvFQTU=
-		</data>
-		<key>Resources/IconClover.png</key>
-		<data>
-		yxFIx35lzkpf/uJsA7SX9YT/Sio=
-		</data>
-		<key>Resources/IconCompile.png</key>
-		<data>
-		hWGrA+bGUU8AtLLB3TcXxyeRgvs=
-		</data>
-		<key>Resources/IconDelete.png</key>
-		<data>
-		c0DrNTQ9H9z6eHSDgqN4dm3vHbU=
-		</data>
-		<key>Resources/IconDisk.png</key>
-		<data>
-		yhTnXiJZFcOrmqB66Nno7QtAsks=
-		</data>
-		<key>Resources/IconDisplay.png</key>
-		<data>
-		QDb7s1vCQt1YisZ2YgWXFbwcg1A=
-		</data>
-		<key>Resources/IconDonate.png</key>
-		<data>
-		61tPXZ3L7K+SbwmCr3sFNsiK86Q=
-		</data>
-		<key>Resources/IconDownload.png</key>
-		<data>
-		xinm9XnEx/k3naeIjX7FeSaWAbk=
-		</data>
-		<key>Resources/IconExport.png</key>
-		<data>
-		Zj+zE8I2uRW6FNp0z8UNvOs7OXQ=
-		</data>
-		<key>Resources/IconFind.png</key>
-		<data>
-		dKu0jMXy1cySX0stIRUZ2WKBwqk=
-		</data>
-		<key>Resources/IconFix.png</key>
-		<data>
-		ncijHrTb6l5WSZeH12fxTYbQZPo=
-		</data>
-		<key>Resources/IconFolder.png</key>
-		<data>
-		2ylE1KE0RidTUu1PgFJnUai3IiM=
-		</data>
-		<key>Resources/IconGatekeeper.png</key>
-		<data>
-		1aMFuA2L06NRWr0XdejoxgioU8E=
-		</data>
-		<key>Resources/IconGeneral.png</key>
-		<data>
-		8eThOfQud+dhflVfdhNLTsM+wnc=
-		</data>
-		<key>Resources/IconHeadless.png</key>
-		<data>
-		wItlWRZnau+Ot2ALcWJVOrXB8Mo=
-		</data>
-		<key>Resources/IconImport.png</key>
-		<data>
-		QPeLijA55Ejw87c4D3giUKUNpA0=
-		</data>
-		<key>Resources/IconInfo.png</key>
-		<data>
-		lhTRL2qukvoOSoeb6ybuojskpPQ=
-		</data>
-		<key>Resources/IconInstalled.png</key>
-		<data>
-		QelVl+BLrmO1jZ2Zs73rs4RvimA=
-		</data>
-		<key>Resources/IconIntel.png</key>
-		<data>
-		ohE6bnBTcIKnjko4W94u74ZsuMA=
-		</data>
-		<key>Resources/IconLocked.png</key>
-		<data>
-		35sUx4X4RKE+rBdtO+trweYjoFc=
-		</data>
-		<key>Resources/IconLog.png</key>
-		<data>
-		zvRKr+Tgsbj/s4Xu3QnqAlAq3uA=
-		</data>
-		<key>Resources/IconLogs.png</key>
-		<data>
-		MuslltDPRrQlZgxYEGohAkxFnRw=
-		</data>
-		<key>Resources/IconMemory.png</key>
-		<data>
-		SVDp/DV4vyYlZT0MEeQ5iXu7tto=
-		</data>
-		<key>Resources/IconMount.png</key>
-		<data>
-		A3W2ZqPTsxBiB6w8/gid2gaoerw=
-		</data>
-		<key>Resources/IconNVRAM.png</key>
-		<data>
-		SAWOd/lyNAhE9CX41os/M3LuEaA=
-		</data>
-		<key>Resources/IconNetwork.png</key>
-		<data>
-		SIBNnASZTCZgAMr5r/m5X5x77wc=
-		</data>
-		<key>Resources/IconOpen.png</key>
-		<data>
-		fgkl8T+p9yQR4xcBWRGbavyYM8E=
-		</data>
-		<key>Resources/IconOpenCore.png</key>
-		<data>
-		74yIFV1SmaoL7gRqpOdTSMIEKfM=
-		</data>
-		<key>Resources/IconPCI.png</key>
-		<data>
-		SDOFXu3QuKo4NgM0MHF2grqCgpU=
-		</data>
-		<key>Resources/IconPatch.png</key>
-		<data>
-		2rxH3lNsTNX/jcB3zJSes2Zd7gc=
-		</data>
-		<key>Resources/IconPower.png</key>
-		<data>
-		J9hA1G/21zIMMcoQ5zccJyZI0XU=
-		</data>
-		<key>Resources/IconPrint.png</key>
-		<data>
-		B35S21WBpXATfS20pqwKARuwfto=
-		</data>
-		<key>Resources/IconReload.png</key>
-		<data>
-		AIdmoNaetOTc7g2h9w14sqO1/1M=
-		</data>
-		<key>Resources/IconRename.png</key>
-		<data>
-		vPorjvklIIG8l5X/2Gu7FdBBpWY=
-		</data>
-		<key>Resources/IconReport.png</key>
-		<data>
-		F860nMCFkkUa6+DnBPnRr36ule0=
-		</data>
-		<key>Resources/IconSATA.png</key>
-		<data>
-		F+u+lZyXb2BOpqFtqYiJvn7LTc0=
-		</data>
-		<key>Resources/IconSerial.png</key>
-		<data>
-		+UmQKZOUTkh1Qo4vu4HEPxehacs=
-		</data>
-		<key>Resources/IconTable.png</key>
-		<data>
-		Y5aLfoMDtW31C34prPIA7pULwLE=
-		</data>
-		<key>Resources/IconTools.png</key>
-		<data>
-		+xLCbDAuWvO6bobPNMjXPNpf8J0=
-		</data>
-		<key>Resources/IconUSB.png</key>
-		<data>
-		dFFzlGbO9NyY1d3g3Dsur++UCQo=
-		</data>
-		<key>Resources/IconUnknown.png</key>
-		<data>
-		QRNZzp7qlbSMSZ6XAa1oibJetcc=
-		</data>
-		<key>Resources/IconUnlocked.png</key>
-		<data>
-		vk//sulEKQOJ6zbJnBaj+GxwhuI=
-		</data>
-		<key>Resources/IconUnmount.png</key>
-		<data>
-		BtG03LBoLXmcsobf3x6GRnTfeOw=
-		</data>
-		<key>Resources/IconView.png</key>
-		<data>
-		G8qheTFsZiOM+1hRlkQtuBttInY=
-		</data>
-		<key>Resources/IconWiFi.png</key>
-		<data>
-		WkWL7A5ryZJKGW3NZfcMmaE3KFE=
-		</data>
 		<key>Resources/Intel/AudioCodecs.plist</key>
 		<data>
-		BglkbDQdykzgSPeClqBAIV/PhaE=
+		KrsSaFWdfh34q0ekD2AWZfRVsPg=
 		</data>
 		<key>Resources/Intel/DeviceIDs.plist</key>
 		<data>
-		6uAkjfq37vnn4oEEz+Bx3jQwqZo=
+		P2TJRd/8OqQJtOAvipX2ElBD9pw=
 		</data>
 		<key>Resources/Intel/FBDrivers.plist</key>
 		<data>
@@ -622,7 +406,7 @@
 		</data>
 		<key>Resources/Intel/GPUs.plist</key>
 		<data>
-		WSZHbUmBdo2bJebjiVUD/AiMCa4=
+		1aCtpKpgJJUQXLgnYK4bQyomxUQ=
 		</data>
 		<key>Resources/Intel/Models.plist</key>
 		<data>
@@ -656,9 +440,29 @@
 		<data>
 		iRhf6yNfUWhA+CiUNEIMMX9MrlU=
 		</data>
+		<key>Resources/Intel/SystemConfigs/ASRock/Z490M-ITX-AC[CFL].plist</key>
+		<data>
+		MHl6NklsOAqAVhI81MTAsrDd3pI=
+		</data>
 		<key>Resources/Intel/SystemConfigs/Asus/Prime H370M-Plus [CFL], Prime Z390-A [CFL], ROG Strix B360-I [CFL], TUF Z390M-Pro Gaming [CFL], Prime H370-Plus [CFL].plist</key>
 		<data>
 		5uoCY6GkFjSshlwhJizRaJkU314=
+		</data>
+		<key>Resources/Intel/SystemConfigs/Dell/Inspiron 5491 CPU I7 10510U [CML].plist</key>
+		<data>
+		ScoeBvBlPhc0d3bwYH75E5AwUm0=
+		</data>
+		<key>Resources/Intel/SystemConfigs/Dell/Inspiron 5584 CPU I5 8265U [CFL].plist</key>
+		<data>
+		GZnyy+W8O3pCUcYSDS75iIsbSBQ=
+		</data>
+		<key>Resources/Intel/SystemConfigs/Generic/Intel UHD Graphics 620 [CFL].plist</key>
+		<data>
+		BUMVPs/PdUFNof9fcf6cIi6VDjE=
+		</data>
+		<key>Resources/Intel/SystemConfigs/Generic/Intel UHD Graphics 630 [CFL].plist</key>
+		<data>
+		aTcPM1yGEKxBvQKpUnPTioum7FU=
 		</data>
 		<key>Resources/Intel/SystemConfigs/Gigabyte/B360N WiFi [CFL].plist</key>
 		<data>
@@ -710,7 +514,11 @@
 		</data>
 		<key>Resources/Intel/SystemConfigs/Gigabyte/Z390M Gaming [CFL].plist</key>
 		<data>
-		UdSoVmbLiNlsGhN7npZUV0JfQXI=
+		iz6LYnUQWbgQ4JeGcero7DryB/o=
+		</data>
+		<key>Resources/Intel/SystemConfigs/Gigabyte/Z490M Gaming X [CFL] Bios DVMT 128.plist</key>
+		<data>
+		Lc3onII76iMCV6F9/b94m/W+ySQ=
 		</data>
 		<key>Resources/Intel/SystemConfigs/Hewlett Packard/Pavilion 590-p0066 [CFL].plist</key>
 		<data>
@@ -866,19 +674,27 @@
 		</data>
 		<key>Resources/Kexts/kexts.plist</key>
 		<data>
-		mDnuuSHKXHziMqPxhclAE5msHu8=
+		zOUBo2OQL9LfqBW+Ooi48DuNJd0=
 		</data>
 		<key>Resources/OpenCore/config.plist</key>
 		<data>
-		PYmlkG7cwvzkNPUnrpGGJs/Nxsw=
+		H8CgZwG+ZleMgluFEnIBL/hdKBE=
 		</data>
 		<key>Resources/PCI/pci.ids</key>
 		<data>
-		RUpNdChkXOU2k8ucIfitobAoDMM=
+		2pMrRQLUkOG0Ai6N3YW58fL3aKM=
+		</data>
+		<key>Resources/USB/USBInjectAll-Info.plist</key>
+		<data>
+		BroXrhV0pCWgK4T0sPQlcQSSCUY=
 		</data>
 		<key>Resources/USB/config_patches.plist</key>
 		<data>
-		YHBpLyHex1VjKdK5XSb7TxAH+5c=
+		85GO5sDDaopys51yXr41pzVnJmo=
+		</data>
+		<key>Resources/USB/usb.ids</key>
+		<data>
+		2SiJNJXltnqHXnKvWsiqZPVyyGY=
 		</data>
 		<key>Resources/Utilities/iasl</key>
 		<data>
@@ -900,7 +716,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TCKcyJjNnt1AT11ogX1CFSy14Io=
+			gpLWqJPOGHAL/6VnEQ46ude9cLM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -909,7 +725,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vQRbYDbX+JMZAnJsvss6iY9UZWA=
+			s2MlQxGCYpDkztQWrqyN0cqpAF0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -918,7 +734,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VroXxwYA345hgbRENpizE7g1L4U=
+			gHJ2RTuHfpwtTj/OYYaEfME3CoM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -927,7 +743,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UXD8h3p4ROxW7OL8XRFsb7yWiKA=
+			pcZ1mJXNr7yjw4SqgBuNWoaJEls=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -936,7 +752,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			75MCWV8rzNKF7lFjPibtMQYbdqs=
+			YpNl2VKhfnzl+wg5FjklBLaY2AY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -945,7 +761,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gzsL42jCAkMP+WO9yHq4ayGw48M=
+			CbKaunPfxlz3RSmjDHNq3Ek0Tu0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -954,7 +770,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xjprJNRvL0pXLYb7d77zCGlRaQU=
+			Nsc10UqlS2Tkh43PeMpas5XoJrQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -972,7 +788,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6LSOd4dwapxvFyThB8j+VnIEeHc=
+			JHI0ko856e2fnKy3pWrZFsXlHOM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -984,10 +800,10 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			vXEKLLZk0whQwPZa6xhbQ33rBeM=
+			KoXxES/sxO9FpmhnT4Him8ILpbk=
 			</data>
 			<key>requirement</key>
-			<string>identifier "org.sparkle-project.Sparkle" and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: Ben Baker (V2HRS7667H)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+			<string>identifier "org.sparkle-project.Sparkle" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: Ben Baker (V2HRS7667H)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
 		</dict>
 		<key>Resources/ACPI/SSDT-EC.dsl</key>
 		<dict>
@@ -1004,88 +820,99 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UVjz53DVSscjopnIKRWN4sDic2I=
+			kIwth6mfkYW9CgcO972S8Vest4U=
 			</data>
 			<key>hash2</key>
 			<data>
-			BZWR3ipFuH1aZQLSuODcKB/1KE3MDK9R8S/go4Q1hoI=
+			lYZEOfLPVVlye2Sd0qrXF7k+68lTzsqFQcAjtdsIg0E=
 			</data>
 		</dict>
 		<key>Resources/ACPI/SSDT-UIAC-ALL.dsl</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yipFN7aGZv9tF1do0EBZ1jQNQuQ=
+			aLGDZNIJ30wJ8Is60Zcqxep/aNo=
 			</data>
 			<key>hash2</key>
 			<data>
-			AeTWbX0GEgpcqErMh1QzeH/sAogUasRyedgE2KpsCWc=
+			gR/mWLTqDd97EL3L8heFVv6hWtVIqJe0pALG58rrJr0=
 			</data>
 		</dict>
 		<key>Resources/ACPI/SSDT-USBX.dsl</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			R4D73SZTj61BpGKK9eY3LOb7GVM=
+			l5gQUDmm5J/jx0JGsJLskmP6sG4=
 			</data>
 			<key>hash2</key>
 			<data>
-			8JVSZmRDLnq+sxojK0iIBGOod0HOXHvkK6uvkxJuu6o=
+			E4b9yBm1ojSBOeelMKdrP/+FXxRuaWM8m16Qc8/py9k=
+			</data>
+		</dict>
+		<key>Resources/ACPI/SSDT-XOSI.dsl</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			enQ7DK7AwCJ8OC3mxPbfU0sAWLg=
+			</data>
+			<key>hash2</key>
+			<data>
+			Z6TJrLlWzDhd9R8VP9WnlXvP3eWRLicUYmTnFM6WKhM=
 			</data>
 		</dict>
 		<key>Resources/AppIcon.icns</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hfAi0+MRWUePqGDYY8e8IqZvC3Q=
+			WYdffDO/eBAcq9DB9Ykqa/ZeXQo=
 			</data>
 			<key>hash2</key>
 			<data>
-			jN91tZfWESp1we3cc2mNGQ6vbaBr4taHDhqHIVza8nc=
+			EMfUtikYbG/TeTDzA7Yc8/E5uLDmU5yvhL4Sc3QH/84=
 			</data>
 		</dict>
 		<key>Resources/Assets.car</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sdnHe8GG79GB6yJl9Iu4EvH7vy8=
+			xEfwUIDLj1mvjlZD9xRZq7OqgL0=
 			</data>
 			<key>hash2</key>
 			<data>
-			fHZwWG66QGnpmC83fUKqT8Z7A5cAUh1hX2IhFvejMl0=
+			WJ0l7WqwqQ89OXJdaTyTmLlwUqAYpgP5O/c6pQliSPU=
 			</data>
 		</dict>
 		<key>Resources/Audio/Codecs.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Vd2H2ZCTWhDW1GYCmAgutNO+xMc=
+			Xu5GTeIvpbcdPmn7O+VFSY0Htzg=
 			</data>
 			<key>hash2</key>
 			<data>
-			H7vNjpgNCYWRe45MjN4r5RS2lzjFo6AeSp5pCWEwEx0=
+			Ywz11SLswJ/I0dJkeGDdAVBpKwmMtAueN4k5MG/4kUI=
 			</data>
 		</dict>
 		<key>Resources/Audio/Controllers.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QcXHgOKnvRwq/azJYdJZS1hcB28=
+			HLjSfDFrsA8Tf3/3NISvbXbh8ds=
 			</data>
 			<key>hash2</key>
 			<data>
-			4+C4LVgQUnPVf9/mU08B1jEVGe5zJeyaigmylfArB74=
+			Gquc+8i7UkNT8RFeNfmzxr1k3pmiG9ikN4hTLFf7vso=
 			</data>
 		</dict>
 		<key>Resources/Audio/Kexts.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tjXivnPC/TYB4k0MAG2yKnGKDxk=
+			n34TPbHLUMswMpqnweRgGWNtywI=
 			</data>
 			<key>hash2</key>
 			<data>
-			bfAknUB6q5UfTz2GZfqZW90G/ooCFCyInGobqMq2fU0=
+			itqFDx3ZFMHdZl/HvpN4A4z5nhHxgxtygHtoqv7YNxQ=
 			</data>
 		</dict>
 		<key>Resources/Audio/Vendors.plist</key>
@@ -1099,59 +926,48 @@
 			S4kSYdayzSA/KrqRqi05/h5duzOLQUTqULgsjHn3eag=
 			</data>
 		</dict>
-		<key>Resources/BT/AtherosDevice.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			DPf46pOnBdaVAhfYcyIU6abA1KM=
-			</data>
-			<key>hash2</key>
-			<data>
-			kVkuDI5aIUyxYX79HYlPR8bEkMyvgiN4186Xcm1ZSKo=
-			</data>
-		</dict>
-		<key>Resources/BT/BRCMDevice.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			j49ISJMgH3i0tShYFfQ3+HJOS7M=
-			</data>
-			<key>hash2</key>
-			<data>
-			d0tT0q/HksuvXxNM/AB9S4QGTI9SJPq6BOxe5ati57Y=
-			</data>
-		</dict>
-		<key>Resources/BannerEveryMac.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			78v//ADHjMPz/Gb42pMXURv/tVs=
-			</data>
-			<key>hash2</key>
-			<data>
-			xxSO44Pia6fFffrgfopgAwGPTbAinU8su2ND5OcZj3E=
-			</data>
-		</dict>
 		<key>Resources/Base.lproj/Credits.rtf</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4Ok9K0rkSdhAJfJ7bKymUiF//0Y=
+			Ambc8MrOML+8whIezp6X6Q+104g=
 			</data>
 			<key>hash2</key>
 			<data>
-			Qxx37Bd9aMBNMKvl17/XOBn9eMyFgqJf/A4WCYW3Xmw=
+			IvEE8bp6CbJGGjfw2WB0u+Hcd72l8pEp21qD4pcxYUU=
 			</data>
 		</dict>
-		<key>Resources/Base.lproj/MainMenu.nib</key>
+		<key>Resources/Base.lproj/MainMenu.nib/keyedobjects-101300.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			trnwBJgRoroNJcRqcYlQYk3qLHg=
+			1HkzkDG6+pLl36tS0PkvlrPugtw=
 			</data>
 			<key>hash2</key>
 			<data>
-			QNmsMwl6RavLKCrV4hCoEvSnyW3VZX6evFeyIaqHVGg=
+			+VmNL9h58PMdPFSCQHuA9lnSqeB4tsbO+KuhbuhlSq8=
+			</data>
+		</dict>
+		<key>Resources/Base.lproj/MainMenu.nib/keyedobjects-110000.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lNEvWaHN33FmIqP20Zlq0CwETbg=
+			</data>
+			<key>hash2</key>
+			<data>
+			83vsX6vQdU4iz4gVOLb8/KmWPisJwh0ZkBpQzN9ULf0=
+			</data>
+		</dict>
+		<key>Resources/Base.lproj/MainMenu.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jeSjEYXIPzGA7AZqgTjXC4MCxXc=
+			</data>
+			<key>hash2</key>
+			<data>
+			MLhQiMsviNpI/x8kYoo9iuDjX4jYk+6c2Ce/2nyU0lA=
 			</data>
 		</dict>
 		<key>Resources/Clover/config_patches.plist</key>
@@ -1345,11 +1161,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KC0cz4KYu4l9GA7NMqOQyHx2FYQ=
+			G0oYNl8aBf6m0ZMk933LVdYvxY0=
 			</data>
 			<key>hash2</key>
 			<data>
-			Jr4O2IFE7/MsalYOkxRKawvwtyraxOIDA6zQYLCmr1Q=
+			uF33Eu47iu7Q6+puojrx+3PYIJVaIyVKzu5oKm5Diac=
 			</data>
 		</dict>
 		<key>Resources/Framebuffer/macOS 10.14/Haswell.bin</key>
@@ -1361,6 +1177,17 @@
 			<key>hash2</key>
 			<data>
 			n0nBx0+EfhQcJWQPaQVsQwitmYiDwvjvwW9oaboYFr0=
+			</data>
+		</dict>
+		<key>Resources/Framebuffer/macOS 10.14/Ice Lake (LP).bin</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YuoZDPdshqKgtnH1tZfuj1jBIj8=
+			</data>
+			<key>hash2</key>
+			<data>
+			pVuK0E1389mfiC5HAsALBf3sezF8UrdwrTXrIa9Vx50=
 			</data>
 		</dict>
 		<key>Resources/Framebuffer/macOS 10.14/Ivy Bridge.bin</key>
@@ -1389,11 +1216,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			c1XNcuaAeCGECOsPzukAiG5PGdM=
+			EDLKKdOxFSxnCkeQlWAGjsPOVfc=
 			</data>
 			<key>hash2</key>
 			<data>
-			Sb0Rg7VnSswvqbALbSTNYCZPDd/A9TNpksDplf4XqQA=
+			5nMe4lhrCWX5s/DsWW+qbQDWUhkYuG0elNSD0cCFF2Q=
 			</data>
 		</dict>
 		<key>Resources/Framebuffer/macOS 10.14/Skylake.bin</key>
@@ -1405,17 +1232,6 @@
 			<key>hash2</key>
 			<data>
 			lwsAcb8x98HM3B1RHuGmVB4fyojDXn3AFMAlvgKRWR0=
-			</data>
-		</dict>
-		<key>Resources/HeadsoftLogo.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			T6Ri0DxYsw1YJIEu3ipy7wZFxqE=
-			</data>
-			<key>hash2</key>
-			<data>
-			OcsmtMVdKxGzAnyMElxb40KtRedTdxgAH5APZMn2Wxk=
 			</data>
 		</dict>
 		<key>Resources/Help/Contents/Info.plist</key>
@@ -1544,11 +1360,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wjpqVXvmS/Hgy4sswdfc+4i0ZwQ=
+			8FRRQ4LO9DozueBY1+TBDmy+CU8=
 			</data>
 			<key>hash2</key>
 			<data>
-			TMBB0Fm+dTteK+omeuU7HL44dep3X/y1lZUkFcmyby4=
+			vt0CFDyqE+sg5Yg/5OXGfBwJJP1fJjgurml7LF/gYE4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1557,11 +1373,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nzHQFn53C02vkkSFD6C3lktIBcs=
+			EosgSTmQqL3mIUaL+3kE9a276gw=
 			</data>
 			<key>hash2</key>
 			<data>
-			x5PoN12JCImMZ73q2cZj5v1aZSZFn7/hGVBLTEYmhPc=
+			cEj7TUi/HD0+2e6uZE+2y1RGO7OvPc8loLn9IQO2Xt4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1596,11 +1412,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1krPX7u55Huw4Kn5pg1ztW968hE=
+			RKccbC037450hTN8RiNGXuNZyYc=
 			</data>
 			<key>hash2</key>
 			<data>
-			DcZzHN4QVVxBL0d4/oaH5SKn0xoUKdQFDS6rTD8JGSQ=
+			mRBPpSfhPrj7j4gbzTnBO9kVrOHS2hdlgAw3DOcUZKY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1609,11 +1425,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			d+XMCIhAq8LYD+c46yfmsBRj3GU=
+			C27oIUihNR7q8SD39e2FPEulqeM=
 			</data>
 			<key>hash2</key>
 			<data>
-			J1wUJ/cODvi5VfOC/qzE1BXuae7OXeMSF3+T0ZlLpe0=
+			5NXG/8YJ8edMVtpo5fkO3mNYmsrVmJzON6UUdZEpDuY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1774,620 +1590,26 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/IconAdd.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			sl2OIM3ynVtmM3q57+O5xilvpWk=
-			</data>
-			<key>hash2</key>
-			<data>
-			iJZoGQT188Uo/MQ/MF/2fbcq2piAWxVlQ/EdGStM9R8=
-			</data>
-		</dict>
-		<key>Resources/IconApp.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			a1J5xO4AY5kcnTHEKn4IM4LU94I=
-			</data>
-			<key>hash2</key>
-			<data>
-			4VCrflmfUCHGnTHaDieCr7Llt7nV2Ysb3z5OgL1RbTI=
-			</data>
-		</dict>
-		<key>Resources/IconAtheros.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			CvHUEGXMaV+3bHchBbLmuEvBTAU=
-			</data>
-			<key>hash2</key>
-			<data>
-			Ubra92VJCqYG5e+POIeoJfvT0OUCx83nDFCEslDnq0I=
-			</data>
-		</dict>
-		<key>Resources/IconAudio.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			U61mR4VrZOV0Ke8B6SCyEG47INc=
-			</data>
-			<key>hash2</key>
-			<data>
-			Wm313r6wF/7v3qrD7TWtU6auJx/G6t/oxfctx+JTmmw=
-			</data>
-		</dict>
-		<key>Resources/IconBluetooth.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			mXTFKTgD5TYw5SxUb/82K1fxLPE=
-			</data>
-			<key>hash2</key>
-			<data>
-			3eSuPm0gSxhbKZNF/4tw2tyzI3IqMwGvsPyXshuNaXQ=
-			</data>
-		</dict>
-		<key>Resources/IconBoot.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			TjBL12eUSO0UVFFmwRdmY9trMkM=
-			</data>
-			<key>hash2</key>
-			<data>
-			vFaJzt2AT/saFMyf5Qt85kBdYncybFer0k4BxRvOGnI=
-			</data>
-		</dict>
-		<key>Resources/IconBuyMeABeer.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			5TED0jHawNw+simELwxT6Fdlxk4=
-			</data>
-			<key>hash2</key>
-			<data>
-			7BOXgojybcD1YgKnGjn6LozuuyN3frV6/bWS7Tgp0U4=
-			</data>
-		</dict>
-		<key>Resources/IconCalculator.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			2z5uJJ/GS3dq/vSb3TigqWD4cGA=
-			</data>
-			<key>hash2</key>
-			<data>
-			1rfbpGt522w/bP5GlD2yuCJHWWG8ycANYQcWKkuziTc=
-			</data>
-		</dict>
-		<key>Resources/IconClearAll.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			aJGhuXF8lBsLgXmB/h+1HDfpB1k=
-			</data>
-			<key>hash2</key>
-			<data>
-			kkhG8fagSrOzdJ7H1hcw2q80PUR/2RZfexFL5W9gAUA=
-			</data>
-		</dict>
-		<key>Resources/IconClock.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			syqFf4bFzxfuzmqXXIJCBjvFQTU=
-			</data>
-			<key>hash2</key>
-			<data>
-			BMdF5z5sU1HjdFZFN5mWlkSjaadAY3nbwn7mkDt6IVg=
-			</data>
-		</dict>
-		<key>Resources/IconClover.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			yxFIx35lzkpf/uJsA7SX9YT/Sio=
-			</data>
-			<key>hash2</key>
-			<data>
-			/73YLFq1VWSS4X0ZRB3EjifilESaF14mO1P6Mhc8i2Q=
-			</data>
-		</dict>
-		<key>Resources/IconCompile.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			hWGrA+bGUU8AtLLB3TcXxyeRgvs=
-			</data>
-			<key>hash2</key>
-			<data>
-			n2e8O15SyA5IS55qDpwS7svIWhZBZ05JUUtz0+tCZyQ=
-			</data>
-		</dict>
-		<key>Resources/IconDelete.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			c0DrNTQ9H9z6eHSDgqN4dm3vHbU=
-			</data>
-			<key>hash2</key>
-			<data>
-			FMuopbcb4sbs0SOPbhfICdxqxPSVwRq/fQ6CFU3tc0Q=
-			</data>
-		</dict>
-		<key>Resources/IconDisk.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			yhTnXiJZFcOrmqB66Nno7QtAsks=
-			</data>
-			<key>hash2</key>
-			<data>
-			iycBHlCRR/HD+9C/+vuQj8Zw8q25p7f26hGSrO4r2GE=
-			</data>
-		</dict>
-		<key>Resources/IconDisplay.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			QDb7s1vCQt1YisZ2YgWXFbwcg1A=
-			</data>
-			<key>hash2</key>
-			<data>
-			zwWYtkMLUkdYG5do970VEvh3M4AC9XfvgfTrsBStW3U=
-			</data>
-		</dict>
-		<key>Resources/IconDonate.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			61tPXZ3L7K+SbwmCr3sFNsiK86Q=
-			</data>
-			<key>hash2</key>
-			<data>
-			qREC6lwjQgH4UBVnThKn9aaujRXpedI/ZJTA7z2Twis=
-			</data>
-		</dict>
-		<key>Resources/IconDownload.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			xinm9XnEx/k3naeIjX7FeSaWAbk=
-			</data>
-			<key>hash2</key>
-			<data>
-			Dk8VWbL9EV+AJg5M/b6XcYlupJp2VKuj6ziS2KtNHIk=
-			</data>
-		</dict>
-		<key>Resources/IconExport.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Zj+zE8I2uRW6FNp0z8UNvOs7OXQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			3jgQ/rT/CNh+w8xEmGX+wf+ZYG0DtD0T6iIZD8rjrHY=
-			</data>
-		</dict>
-		<key>Resources/IconFind.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			dKu0jMXy1cySX0stIRUZ2WKBwqk=
-			</data>
-			<key>hash2</key>
-			<data>
-			1vW1ESPCYM9Kz0vCshL68FJIfdL4qT2TOxOgGp3/FFY=
-			</data>
-		</dict>
-		<key>Resources/IconFix.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ncijHrTb6l5WSZeH12fxTYbQZPo=
-			</data>
-			<key>hash2</key>
-			<data>
-			mSN3TFQ3APaZMix+G1T+cpS1P3ehjuczrLii/7oXn8I=
-			</data>
-		</dict>
-		<key>Resources/IconFolder.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			2ylE1KE0RidTUu1PgFJnUai3IiM=
-			</data>
-			<key>hash2</key>
-			<data>
-			weu2nTbLhpGG4oONVkPkx1nfePsD72wapAkPb9oyjRI=
-			</data>
-		</dict>
-		<key>Resources/IconGatekeeper.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			1aMFuA2L06NRWr0XdejoxgioU8E=
-			</data>
-			<key>hash2</key>
-			<data>
-			aCZZ23DldrPAb0dNsrrbqbHVsNzBBLsLF9V7n911dxE=
-			</data>
-		</dict>
-		<key>Resources/IconGeneral.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			8eThOfQud+dhflVfdhNLTsM+wnc=
-			</data>
-			<key>hash2</key>
-			<data>
-			NysESUNepXCd5gLOmI9Ch6kWQavWhow8oxKo0UWiHA4=
-			</data>
-		</dict>
-		<key>Resources/IconHeadless.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			wItlWRZnau+Ot2ALcWJVOrXB8Mo=
-			</data>
-			<key>hash2</key>
-			<data>
-			hENKiH0rkSB5j1OH4lCTV+stlYqiKO+KQcg2l8gxwyk=
-			</data>
-		</dict>
-		<key>Resources/IconImport.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			QPeLijA55Ejw87c4D3giUKUNpA0=
-			</data>
-			<key>hash2</key>
-			<data>
-			ffBD94GB2YnznfYCqKCYd65cUX4bMKAPlX3Co02VRuU=
-			</data>
-		</dict>
-		<key>Resources/IconInfo.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			lhTRL2qukvoOSoeb6ybuojskpPQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			zxY/k0qvQTJUSd06JNaGPD8Yz2WF9FgwQjllqZi4HM0=
-			</data>
-		</dict>
-		<key>Resources/IconInstalled.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			QelVl+BLrmO1jZ2Zs73rs4RvimA=
-			</data>
-			<key>hash2</key>
-			<data>
-			aCDOMxXoipK2QChTsGe/i2p+XLpqd7i48Faw3c7pQy4=
-			</data>
-		</dict>
-		<key>Resources/IconIntel.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ohE6bnBTcIKnjko4W94u74ZsuMA=
-			</data>
-			<key>hash2</key>
-			<data>
-			JODo7LmQMQAp70yGHRT5trLr1EB5wOtfhGMOXaRq9YA=
-			</data>
-		</dict>
-		<key>Resources/IconLocked.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			35sUx4X4RKE+rBdtO+trweYjoFc=
-			</data>
-			<key>hash2</key>
-			<data>
-			lWXuA7PFTzAIIB31tLvAUI/NvPxKk+ypzFM+J0OijCg=
-			</data>
-		</dict>
-		<key>Resources/IconLog.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			zvRKr+Tgsbj/s4Xu3QnqAlAq3uA=
-			</data>
-			<key>hash2</key>
-			<data>
-			ApfLlKZm4VJQNITumC6hO6b+wMU1mXJvRKBsdGlkaBQ=
-			</data>
-		</dict>
-		<key>Resources/IconLogs.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			MuslltDPRrQlZgxYEGohAkxFnRw=
-			</data>
-			<key>hash2</key>
-			<data>
-			CeE/k2kyk1j9443jPMHIHa6c57gOiCy7r6G2m6sMCcc=
-			</data>
-		</dict>
-		<key>Resources/IconMemory.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			SVDp/DV4vyYlZT0MEeQ5iXu7tto=
-			</data>
-			<key>hash2</key>
-			<data>
-			3qp7AjW/YakqmReFV89vXbe23zd8/QWN+k0S2xF1nTg=
-			</data>
-		</dict>
-		<key>Resources/IconMount.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			A3W2ZqPTsxBiB6w8/gid2gaoerw=
-			</data>
-			<key>hash2</key>
-			<data>
-			UUqMeSlEKhxZZdM3H//gLJ1T8WWs9rvhaSSTIQbY/Sg=
-			</data>
-		</dict>
-		<key>Resources/IconNVRAM.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			SAWOd/lyNAhE9CX41os/M3LuEaA=
-			</data>
-			<key>hash2</key>
-			<data>
-			pdiwKEEeDvTAOxWFdEU9T6/WFqCQhkoHL+7lKhnrFGk=
-			</data>
-		</dict>
-		<key>Resources/IconNetwork.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			SIBNnASZTCZgAMr5r/m5X5x77wc=
-			</data>
-			<key>hash2</key>
-			<data>
-			lR50KQtVZW6rGRGVj4EW30WDbswpL19YeZICQTQ0csA=
-			</data>
-		</dict>
-		<key>Resources/IconOpen.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			fgkl8T+p9yQR4xcBWRGbavyYM8E=
-			</data>
-			<key>hash2</key>
-			<data>
-			Skp8AqYwgxuKAAonmRxe8fTm3hETb0sdg/sQX6NNEP0=
-			</data>
-		</dict>
-		<key>Resources/IconOpenCore.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			74yIFV1SmaoL7gRqpOdTSMIEKfM=
-			</data>
-			<key>hash2</key>
-			<data>
-			qLYxaE4eWpcU+Ci61kLUZTb+Irxb4ABn95o9r2PSAy8=
-			</data>
-		</dict>
-		<key>Resources/IconPCI.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			SDOFXu3QuKo4NgM0MHF2grqCgpU=
-			</data>
-			<key>hash2</key>
-			<data>
-			5QUgHOfmR21NXnUxbvV1ujkCPsHRH4MwRQhCVPqChQc=
-			</data>
-		</dict>
-		<key>Resources/IconPatch.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			2rxH3lNsTNX/jcB3zJSes2Zd7gc=
-			</data>
-			<key>hash2</key>
-			<data>
-			EjK+xekHoirJHQHhIIuS6JXmxwfNsYKA7K0dMe0MNNk=
-			</data>
-		</dict>
-		<key>Resources/IconPower.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			J9hA1G/21zIMMcoQ5zccJyZI0XU=
-			</data>
-			<key>hash2</key>
-			<data>
-			K05uuI2Z3A4cOc4lr+pgqo9XJTV6rqTqpE0YDCxaUO8=
-			</data>
-		</dict>
-		<key>Resources/IconPrint.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			B35S21WBpXATfS20pqwKARuwfto=
-			</data>
-			<key>hash2</key>
-			<data>
-			GfDTONLaZgnhaIAzB8GIuiJKbAEZPPtvJNn58Csp0So=
-			</data>
-		</dict>
-		<key>Resources/IconReload.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			AIdmoNaetOTc7g2h9w14sqO1/1M=
-			</data>
-			<key>hash2</key>
-			<data>
-			6MXZxWzeraXk8tbedXmMadaaW2cuXROmaf/dqY63jUE=
-			</data>
-		</dict>
-		<key>Resources/IconRename.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			vPorjvklIIG8l5X/2Gu7FdBBpWY=
-			</data>
-			<key>hash2</key>
-			<data>
-			V/6XDf3OcdhYxSih3R2F2VcesLpJT39mQK26n3+dg28=
-			</data>
-		</dict>
-		<key>Resources/IconReport.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			F860nMCFkkUa6+DnBPnRr36ule0=
-			</data>
-			<key>hash2</key>
-			<data>
-			Yq4EAGxw/Jr3MM4BWpv+lvGwi2QFo+n7Rk99i+GDQUk=
-			</data>
-		</dict>
-		<key>Resources/IconSATA.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			F+u+lZyXb2BOpqFtqYiJvn7LTc0=
-			</data>
-			<key>hash2</key>
-			<data>
-			7HEKlJ6+SMZMwHYHszv5mWpFUQK177GndnGZ5JK8NMA=
-			</data>
-		</dict>
-		<key>Resources/IconSerial.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			+UmQKZOUTkh1Qo4vu4HEPxehacs=
-			</data>
-			<key>hash2</key>
-			<data>
-			rK0vC4cVz1dvuJGJXzYD0NYVYJBnoUxCKDN2IM+/lvQ=
-			</data>
-		</dict>
-		<key>Resources/IconTable.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Y5aLfoMDtW31C34prPIA7pULwLE=
-			</data>
-			<key>hash2</key>
-			<data>
-			cMZh0Q+S8dEoshlrK1piUXbGw4u6jytvIOsq3svuzxM=
-			</data>
-		</dict>
-		<key>Resources/IconTools.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			+xLCbDAuWvO6bobPNMjXPNpf8J0=
-			</data>
-			<key>hash2</key>
-			<data>
-			DDUMGKWMAhNzPdOSa1MXLS9ItAzkZNcKygmYdFH806I=
-			</data>
-		</dict>
-		<key>Resources/IconUSB.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			dFFzlGbO9NyY1d3g3Dsur++UCQo=
-			</data>
-			<key>hash2</key>
-			<data>
-			Fmy7gM0ICjE3G2i9c9y10MFdT7AgIs+sZKcLJL824ZM=
-			</data>
-		</dict>
-		<key>Resources/IconUnknown.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			QRNZzp7qlbSMSZ6XAa1oibJetcc=
-			</data>
-			<key>hash2</key>
-			<data>
-			nYV1Xe5Bz4sP3qO3UhZGYlMorP7Mj/LNYz8xmBNnUZE=
-			</data>
-		</dict>
-		<key>Resources/IconUnlocked.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			vk//sulEKQOJ6zbJnBaj+GxwhuI=
-			</data>
-			<key>hash2</key>
-			<data>
-			jOVNOBKxTfP8W0RdtxaD2vGKkE/UG8AkJ34o0DIPPqE=
-			</data>
-		</dict>
-		<key>Resources/IconUnmount.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BtG03LBoLXmcsobf3x6GRnTfeOw=
-			</data>
-			<key>hash2</key>
-			<data>
-			VSIicyFPy991ji3bP+0bZBTdoz4/RIYDwL4qmF+nB/A=
-			</data>
-		</dict>
-		<key>Resources/IconView.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			G8qheTFsZiOM+1hRlkQtuBttInY=
-			</data>
-			<key>hash2</key>
-			<data>
-			9h1tKygj+HVYgo0YIOH6TNlNXRaWbPQg8d3siZB6ouE=
-			</data>
-		</dict>
-		<key>Resources/IconWiFi.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			WkWL7A5ryZJKGW3NZfcMmaE3KFE=
-			</data>
-			<key>hash2</key>
-			<data>
-			/bSqK2OEjvUWoLgIUp4yzq5ZA1dXDCTa/9oWgW3WWig=
-			</data>
-		</dict>
 		<key>Resources/Intel/AudioCodecs.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BglkbDQdykzgSPeClqBAIV/PhaE=
+			KrsSaFWdfh34q0ekD2AWZfRVsPg=
 			</data>
 			<key>hash2</key>
 			<data>
-			nY9nsVP8SJY2dxYEa8m/D3lazZ7RTQiBp7QQ5O6LmRE=
+			emGYDB0nEJMFvNa/TXwLrwfW/MWnJ2Qfk6uYsHk5xyw=
 			</data>
 		</dict>
 		<key>Resources/Intel/DeviceIDs.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6uAkjfq37vnn4oEEz+Bx3jQwqZo=
+			P2TJRd/8OqQJtOAvipX2ElBD9pw=
 			</data>
 			<key>hash2</key>
 			<data>
-			FEVPWA42Rmgcp3ZUyMvJwGAcpclDOjVE+2+DV20dj34=
+			54nKAhx8rQ1i4nd8Smbn2lqip4cBIyZBm0E9/zlIpVo=
 			</data>
 		</dict>
 		<key>Resources/Intel/FBDrivers.plist</key>
@@ -2405,11 +1627,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WSZHbUmBdo2bJebjiVUD/AiMCa4=
+			1aCtpKpgJJUQXLgnYK4bQyomxUQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			YF4CmP6lMlcnZTUdDK5k956SaImJfMq1evBJgfjL9NE=
+			vb73CwcAnA+zMRP9eo+tka9xZulUdAgZALLEw/wHFqw=
 			</data>
 		</dict>
 		<key>Resources/Intel/Models.plist</key>
@@ -2500,6 +1722,17 @@
 			4MBQA054SfSlD5ZBSLCri8657FXrFRxjB+U9JtzeokQ=
 			</data>
 		</dict>
+		<key>Resources/Intel/SystemConfigs/ASRock/Z490M-ITX-AC[CFL].plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MHl6NklsOAqAVhI81MTAsrDd3pI=
+			</data>
+			<key>hash2</key>
+			<data>
+			tp6aDWRUleW8QGGP53AGNNF6T3UbXw5uYKbFiWYYWJ0=
+			</data>
+		</dict>
 		<key>Resources/Intel/SystemConfigs/Asus/Prime H370M-Plus [CFL], Prime Z390-A [CFL], ROG Strix B360-I [CFL], TUF Z390M-Pro Gaming [CFL], Prime H370-Plus [CFL].plist</key>
 		<dict>
 			<key>hash</key>
@@ -2509,6 +1742,50 @@
 			<key>hash2</key>
 			<data>
 			raNXrd8lRIncHbJAFyFdzm8VTBXTr32dhlja9ShvGWs=
+			</data>
+		</dict>
+		<key>Resources/Intel/SystemConfigs/Dell/Inspiron 5491 CPU I7 10510U [CML].plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ScoeBvBlPhc0d3bwYH75E5AwUm0=
+			</data>
+			<key>hash2</key>
+			<data>
+			pOLUBEY+x5rjjs2OcmR6A63vmvv3fgwJkLKnx22eYfg=
+			</data>
+		</dict>
+		<key>Resources/Intel/SystemConfigs/Dell/Inspiron 5584 CPU I5 8265U [CFL].plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GZnyy+W8O3pCUcYSDS75iIsbSBQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			oOm8Snj/Lk68J7Gt21WpzSw7dKPPIcdhDI5Obd1lvis=
+			</data>
+		</dict>
+		<key>Resources/Intel/SystemConfigs/Generic/Intel UHD Graphics 620 [CFL].plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BUMVPs/PdUFNof9fcf6cIi6VDjE=
+			</data>
+			<key>hash2</key>
+			<data>
+			xpKCwd2pEftbj9mPVcSe+nAhh0WZBpJQsCmeRudwHb8=
+			</data>
+		</dict>
+		<key>Resources/Intel/SystemConfigs/Generic/Intel UHD Graphics 630 [CFL].plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			aTcPM1yGEKxBvQKpUnPTioum7FU=
+			</data>
+			<key>hash2</key>
+			<data>
+			M/ryjTwULNLjvmYuNd7+sOca8fL1P9F+SxRISFrmc8o=
 			</data>
 		</dict>
 		<key>Resources/Intel/SystemConfigs/Gigabyte/B360N WiFi [CFL].plist</key>
@@ -2647,11 +1924,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UdSoVmbLiNlsGhN7npZUV0JfQXI=
+			iz6LYnUQWbgQ4JeGcero7DryB/o=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZNkdYnPPMxU7eoBf/lb1OfmOj6OxzUNN5PixZL62zQw=
+			T29l4gD03HpYznT0neljY+zAgpG24A6xxiSsTe1ATrs=
+			</data>
+		</dict>
+		<key>Resources/Intel/SystemConfigs/Gigabyte/Z490M Gaming X [CFL] Bios DVMT 128.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Lc3onII76iMCV6F9/b94m/W+ySQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			7lIZGNl5mo0Zqi/JXxyE6k8d7mg7mFKzCKsq1QDpVTw=
 			</data>
 		</dict>
 		<key>Resources/Intel/SystemConfigs/Hewlett Packard/Pavilion 590-p0066 [CFL].plist</key>
@@ -3076,44 +2364,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mDnuuSHKXHziMqPxhclAE5msHu8=
+			zOUBo2OQL9LfqBW+Ooi48DuNJd0=
 			</data>
 			<key>hash2</key>
 			<data>
-			lMGxb7lQsBLY1Lq/JufGpAqT0H9wr/z1QDHDXyY1HXY=
+			Ex36L719ZXORnhQPSqRsDN6eXvFBAZnXrzAykDxVvt4=
 			</data>
 		</dict>
 		<key>Resources/OpenCore/config.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PYmlkG7cwvzkNPUnrpGGJs/Nxsw=
+			H8CgZwG+ZleMgluFEnIBL/hdKBE=
 			</data>
 			<key>hash2</key>
 			<data>
-			XmcwWAIvNwHOvsDPLtkI5SghgLGym8IWUGpoOqfZPag=
+			s44xL7sV4swXjEa1kbctFs/V6gUIiLVKM8544XXu5BM=
 			</data>
 		</dict>
 		<key>Resources/PCI/pci.ids</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RUpNdChkXOU2k8ucIfitobAoDMM=
+			2pMrRQLUkOG0Ai6N3YW58fL3aKM=
 			</data>
 			<key>hash2</key>
 			<data>
-			84TxwbAyhZR3LDgjRWKI5OtoIfrbHX0d1wuaCwOUz3Q=
+			K96a7cygPjgQX8y+d7276+n4h41R0JhZpZN+O8FWNeE=
+			</data>
+		</dict>
+		<key>Resources/USB/USBInjectAll-Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BroXrhV0pCWgK4T0sPQlcQSSCUY=
+			</data>
+			<key>hash2</key>
+			<data>
+			EN6Up0wBrAz+xgCUS9Phe/tNObf/7MCFYDjl1xDfpgM=
 			</data>
 		</dict>
 		<key>Resources/USB/config_patches.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			YHBpLyHex1VjKdK5XSb7TxAH+5c=
+			85GO5sDDaopys51yXr41pzVnJmo=
 			</data>
 			<key>hash2</key>
 			<data>
-			ozTQ9sKgkQMGimDXlikGP/GUIGM3eLhsF8x24HX49fI=
+			Syl9kJA1PCgr4d6ttIpC98P49OPcmTwquagU0+gypjs=
+			</data>
+		</dict>
+		<key>Resources/USB/usb.ids</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2SiJNJXltnqHXnKvWsiqZPVyyGY=
+			</data>
+			<key>hash2</key>
+			<data>
+			M23R+bVh/PrkRgPeq1jQAlMCtBlIZCTd6R6MI1mfgZ8=
 			</data>
 		</dict>
 		<key>Resources/Utilities/iasl</key>
@@ -3164,11 +2474,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TCKcyJjNnt1AT11ogX1CFSy14Io=
+			gpLWqJPOGHAL/6VnEQ46ude9cLM=
 			</data>
 			<key>hash2</key>
 			<data>
-			xEBkVjETGmTOKTVcf/iUkhELo3OVQfEXjHN2QyvXypU=
+			I6739T0ee4DWNSy1trk4200orCVOccLmvXHC2Ffv09c=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3177,11 +2487,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vQRbYDbX+JMZAnJsvss6iY9UZWA=
+			s2MlQxGCYpDkztQWrqyN0cqpAF0=
 			</data>
 			<key>hash2</key>
 			<data>
-			6H/HLPeuXI2tb3vf30I3kCUqse1ZES8mfUJe0vHkCsM=
+			cnqU40yqMqrv3hti80wYEx6fN653+tldGjF5+OohAow=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3190,11 +2500,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VroXxwYA345hgbRENpizE7g1L4U=
+			gHJ2RTuHfpwtTj/OYYaEfME3CoM=
 			</data>
 			<key>hash2</key>
 			<data>
-			3O5k9LHMiofoTBeyZTZeB/gVlJna0NjZe+DIv2L7ewE=
+			Fvc1uIKOGv7CR/9y7+OcPgeIiHf/ulJ9jb3IIfMKc+s=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3203,11 +2513,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UXD8h3p4ROxW7OL8XRFsb7yWiKA=
+			pcZ1mJXNr7yjw4SqgBuNWoaJEls=
 			</data>
 			<key>hash2</key>
 			<data>
-			i4GLbCFCzCVPUe+yXcyBd6FmEO0Q0oM/yl6pC9WQTNo=
+			Y310eQ2OSl45jkClcI/Qz1PoOCTWwhjncOhuJoy5z5s=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3216,11 +2526,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			75MCWV8rzNKF7lFjPibtMQYbdqs=
+			YpNl2VKhfnzl+wg5FjklBLaY2AY=
 			</data>
 			<key>hash2</key>
 			<data>
-			bZ7ZScJS7xiGf9oZ43Y4muzQ/IBWcd0zgJ6fPG/x2Dg=
+			+V+ue5NZmcBnsJ4zA9qf4wrcN16Q/X9y2iy4wEc2RHA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3229,11 +2539,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gzsL42jCAkMP+WO9yHq4ayGw48M=
+			CbKaunPfxlz3RSmjDHNq3Ek0Tu0=
 			</data>
 			<key>hash2</key>
 			<data>
-			FfY+MkPnu/QDs6CVS4AhewW6dhfsw4bPKA/NgcrOClQ=
+			BwM4DEOU6gESoIsYeIMdISLmMG8VjvElnluhMReNRSA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3242,11 +2552,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xjprJNRvL0pXLYb7d77zCGlRaQU=
+			Nsc10UqlS2Tkh43PeMpas5XoJrQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			CPph5ykWTh49DA1SIWpp8730u15A+eKDbw8A56cwJI8=
+			918XAylxJHv8kzdHKF/YPINd4VzKKbOgB6yp1ORVCHk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3268,11 +2578,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6LSOd4dwapxvFyThB8j+VnIEeHc=
+			JHI0ko856e2fnKy3pWrZFsXlHOM=
 			</data>
 			<key>hash2</key>
 			<data>
-			dmR23enHpV8lKXvfhSkCoEi9hKEA939iCW51W/Q6Sl0=
+			l0I89O6TUDAoP/CwosN/99CVmUVcoPfzAuD8JTP0pok=
 			</data>
 			<key>optional</key>
 			<true/>
