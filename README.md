@@ -1,4 +1,4 @@
-# Asus-X441UV-Hackintosh
+# Asus-X441UV-Clover
 
 Hackintosh resources for Asus X441UV
 
